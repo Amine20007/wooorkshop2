@@ -1,9 +1,9 @@
 const product = {
-    name: "Product Name",
-    price: "$19.99",
-    description: "This is a product description.",
-    imagePath: "path/to/product/image.jpg"
-  };
-  
-  export default product;
-  
+  name: "samsung",
+  price: "$19.99",
+  description: "Samsung Galaxy S22 Ultra"
+  ,
+  imagePath: "path/to/product/mobil.jpg",
+};
+
+export default product;
